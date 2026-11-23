@@ -1,17 +1,8 @@
-# hello_flutter_tip_calculator
+# Flutter Tip Calculator
 
-A new Flutter project.
+Pangalan: [Ilagay ang pangalan mo dito]
 
-## Getting Started
+Isang simpleng Tip Calculator app na ginawa gamit ang Flutter at Dart[cite: 1, 2]. Kinakalkula nito ang tip at total bill base sa napiling porsyento (10%, 15%, 20%)[cite: 1, 5].
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Tip Calculator Screenshot](tip-calculator.png)
